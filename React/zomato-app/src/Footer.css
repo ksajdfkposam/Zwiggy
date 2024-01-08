@@ -1,0 +1,36 @@
+
+.Footer{
+  background-color: #3b2632;
+  color: #fff;
+  height: 185px;
+  
+ 
+    bottom: 0;
+    padding: 10px 0;
+    width: 100%;
+    text-align: center;
+   
+}
+
+ul {
+  list-style: none;
+}
+
+.fotDiv {
+  width: 30%;
+  float: left;
+  border-right: 2px solid white;
+}
+
+.noborder {
+  border: none;
+}
+
+.social {
+  display: inline-block;
+  margin-top: -4%;
+}
+
+.socialImg {
+  height: 50px;
+}
